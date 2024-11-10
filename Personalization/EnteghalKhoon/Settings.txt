@@ -1,0 +1,1 @@
+﻿http://10.0.25.110:90/GateApi/checkAccess;http://10.0.25.110:90/GateApi/RegGateIO;1;192.168.0.151
